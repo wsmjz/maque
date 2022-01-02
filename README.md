@@ -1,2 +1,4 @@
-# ping-admin-vue
-- 一个vue版的后台系统模板
+
+- 整合 简易版react router redux
+- 持久化
+- saga
