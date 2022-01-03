@@ -29,7 +29,7 @@ let element1 = (
   <div className="title" style={{ color: "red" }}>
     <span>hello</span>world
     <FunctionComponent name="函数组件">哈哈</FunctionComponent>
-    <Main></Main>
+    {/* <Main></Main> */}
   </div>
 );
 // console.log(JSON.stringify(element1));

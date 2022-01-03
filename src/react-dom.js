@@ -1,5 +1,6 @@
 import { REACT_TEXT } from "./constants";
 function render(vdom, container) {
+    debugger
     mount(vdom, container);
 }
 export function mount(vdom, container) {
