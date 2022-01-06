@@ -1,0 +1,4 @@
+export {
+    persistStore,
+    persistReducer
+}

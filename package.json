@@ -1,7 +1,6 @@
 {
   "name": "maque",
   "version": "0.1.0",
-  "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
@@ -23,6 +22,7 @@
       "react-app/jest"
     ]
   },
+  "keywords": ["maque", "react"],
   "browserslist": {
     "production": [
       ">0.2%",

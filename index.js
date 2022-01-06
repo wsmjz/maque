@@ -1,5 +1,5 @@
-import React from './react';
-import ReactDOM from './react-dom';
+import React from './src/react';
+import ReactDOM from './src/react-dom';
 
 function FunctionComponent(props){
  return <div className="title" style={{ color: 'red' }}><span>{props.name}</span>{props.children}</div>;

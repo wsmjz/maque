@@ -1,4 +1,4 @@
-import { REACT_TEXT } from "./constants";
+import { REACT_TEXT } from "../react/constants";
 function render(vdom, container) {
     debugger
     mount(vdom, container);
